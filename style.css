@@ -6,6 +6,26 @@
     'Lucida Sans', Arial, sans-serif;
 }
 
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #08a4d8; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #61a5d0; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #56b7ef; 
+}
+
 nav {
   height: 80px;
   background: #95caea;
