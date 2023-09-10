@@ -1,0 +1,13 @@
+         <h1>상품을 추가하고 싶으시다고요?</h1>
+         <p>
+            아래에있는 버튼을 눌러주세요!
+            문서를 알맞게 작성하시고 상품을 추가하세요!
+         </p>
+          <button>상품 추가하기</button>
+
+          <img
+            src="https://cdn.discordapp.com/attachments/1148389730204000441/1149245763243753562/SGN_09_05_2023_1693905208461.png"
+            alt="illustration
+        "
+            class="hero-image"
+          />
