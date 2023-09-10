@@ -16,7 +16,7 @@ nav {
 }
 
 .logo {
-  color: #ffffff;
+  color: #ffffffc4;
   font-size: 1rem;
   font-weight: bold;
   font-style: segoe mdl2 assets;
@@ -25,16 +25,26 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: #ffffff;
+  color: #ffffffc4;
   padding: 0 1.5rem;
 }
 
 nav a:hover {
-  color: #ffffff;
+  color: #ffffffc4;
 }
 
+
+
 .hero {
-  background: #08a4d8;
+
+ background-image: url("https://c.tenor.com/FYNu-OQZ6v0AAAAC/tenor.gif");
+   /* Full height */
+   height: 0%;
+
+   /* Center and scale the image nicely */
+
+
+   background-size: cover;
 }
 
 .hero-container {
@@ -42,7 +52,7 @@ nav a:hover {
   grid-template-columns: 1fr 1fr;
   height: 95vh;
   padding: 3rem calc((100vw - 1300px) / 2);
-  color: #ffffff;
+  color: #ffffffc4;
 }
 
 .column-left {
@@ -63,27 +73,27 @@ nav a:hover {
   margin-bottom: 2rem;
   font-size: 1.5rem;
   line-height: 1.5;
-  color: #ffffff;
+  color: #ffffffc4;
 }
 
 .column-left l {
   margin-bottom: 1rem;
   line-height: 1;
-  color: #ffffff;
+  color: #ffffffc4;
 }
 
 button1 {
   padding: 1rem 3rem;
   font-size: 1rem;
   border: none;
-  color: #ffffff;
+  color: #ffffffc4;
   background: #000;
   cursor: pointer;
   border-radius: 50px;
 }
 
 button1:hover {
-  background: #fff;
+  background: #ffffffc4;
   color: #000000;
 }
 
@@ -91,7 +101,7 @@ button {
   padding: 1rem 1rem;
   font-size: 0.9rem;
   border: none;
-  color: #ffffff;
+  color: #ffffffc4;
   background: #95caea;
   cursor: pointer;
   border-radius: 50px;
@@ -101,7 +111,7 @@ button:hover {
   padding: 1rem 1rem;
   font-size: 0.9rem;
   border: none;
-  color: #ffffff;
+  color: #ffffffc4;
   background: #08a4d8;
   cursor: pointer;
   border-radius: 50px;
@@ -111,7 +121,7 @@ button2 {
   padding: 1rem 3rem;
   font-size: 1rem;
   border: none;
-  color: #ffffff;
+  color: #ffffffc4;
   background: #95caea;
   cursor: pointer;
   border-radius: 50px;
@@ -121,7 +131,7 @@ button2:hover {
   padding: 1rem 3rem;
   font-size: 1rem;
   border: none;
-  color: #ffffff;
+  color: #ffffffc4;
   background: #08a4d8;
   cursor: pointer;
   border-radius: 50px;
@@ -132,7 +142,7 @@ button2:hover {
   justify-content: center;
   align-items: center;
   padding: 3rem 2rem;
-  color: #ffffff;
+  color: #ffffffc4;
 }
 
 .hero-image {
