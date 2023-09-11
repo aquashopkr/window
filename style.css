@@ -6,26 +6,6 @@
     'Lucida Sans', Arial, sans-serif;
 }
 
-/* width */
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: #08a4d8; 
-}
- 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #61a5d0; 
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #56b7ef; 
-}
-
 nav {
   height: 80px;
   background: #95caea;
@@ -45,12 +25,12 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: #ffffffc4;
+  color: #ffffff99;
   padding: 0 1.5rem;
 }
 
 nav a:hover {
-  color: #ffffffc4;
+  color: #ffffff99;
 }
 
 
@@ -93,13 +73,21 @@ nav a:hover {
   margin-bottom: 2rem;
   font-size: 1.5rem;
   line-height: 1.5;
-  color: #ffffffc4;
+  color: #20202080;
+}
+
+.column-right h2 {
+  color: #20202080;
+}
+
+.column-right p {
+  color: #20202080;
 }
 
 .column-left l {
   margin-bottom: 1rem;
   line-height: 1;
-  color: #ffffffc4;
+  color: #20202080;
 }
 
 button1 {
@@ -125,6 +113,26 @@ button {
   background: #95caea;
   cursor: pointer;
   border-radius: 50px;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #08a4d8; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #61a5d0; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #56b7ef; 
 }
 
 button:hover {
