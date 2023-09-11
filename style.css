@@ -159,10 +159,11 @@ button2:hover {
 
 .column-right {
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  align-items: center;
-  padding: 3rem 2rem;
-  color: #ffffffc4;
+  align-items: flex-start;
+  color: #000;
+  padding: 0rem 2rem;
 }
 
 .hero-image {
